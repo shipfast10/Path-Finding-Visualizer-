@@ -1,6 +1,8 @@
 Path Visualizer
 A simple React-based pathfinding visualizer built to demonstrate basic algorithms and grid traversal.
 
+🔗 *Live Demo:* [Click here to view the deployed app](https://shipfast10.github.io/Path-Finding-Visualizer-)
+
 🚀 Features
 Grid-based interface
 Interactive path selection
