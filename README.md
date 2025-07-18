@@ -23,6 +23,7 @@ JavaScript
 🧪 Getting Started
 Prerequisites
 Node.js and npm installed
+```bash
 Installation
 git clone https://github.com/yourusername/path-visualizer.git
 cd path-visualizer
